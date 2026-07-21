@@ -12,6 +12,10 @@ Paste an `owner/repository` name or a GitHub URL. Release Picker reads the lates
 
 No installation, login, API key, or file upload is required.
 
+![GitHub Release Picker Chinese video cover](assets/video/github-release-picker-cover-3x4-zh.png)
+
+[Watch the 18-second Chinese demo video](assets/video/github-release-picker-promo-zh.mp4)
+
 ## Why
 
 A single GitHub release can contain Windows, macOS, Linux, x64, ARM64, installer, portable, checksum, signature, debug, and source files. Those labels are useful to developers but confusing to people who simply want the app.
@@ -77,6 +81,8 @@ configcrate/codex-titlebar-meter
 - 会排除源码、校验文件、签名文件、调试文件和不兼容版本。
 - 没有后端、账号、分析统计或遥测。
 - 第一版仅支持公开项目。
+
+[观看 18 秒中文演示视频](assets/video/github-release-picker-promo-zh.mp4)
 
 ---
 

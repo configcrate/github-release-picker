@@ -9,6 +9,8 @@
 - Audience: ordinary GitHub users, especially people downloading open-source desktop and command-line tools for the first time
 - Languages: Chinese and English
 - Brand link: https://configcrate.com/
+- Chinese promo video: `assets/video/github-release-picker-promo-zh.mp4`
+- 3:4 video cover: `assets/video/github-release-picker-cover-3x4-zh.png`
 
 ## One-sentence description
 
