@@ -1,0 +1,13 @@
+{
+  "name": "github-release-picker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "serve": "npx serve ."
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

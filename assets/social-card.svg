@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="g" cx="70%" cy="10%" r="80%"><stop offset="0" stop-color="#183d71"/><stop offset="1" stop-color="#0b1019"/></radialGradient>
+    <linearGradient id="b" x1="0" x2="1"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#58a6ff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <g transform="translate(85 82)">
+    <rect width="58" height="58" rx="15" fill="#172945" stroke="#58a6ff" stroke-opacity=".45"/>
+    <path fill="#78b8ff" d="m29 11 18 10v19L29 49 11 40V21l18-10Zm0 5-12 7 12 6 12-6-12-7ZM16 28v9l10 6v-10l-10-5Zm16 15 10-6v-9l-10 5v10Z"/>
+    <text x="78" y="40" fill="#f4f7fb" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700">GitHub Release Picker</text>
+  </g>
+  <text x="85" y="255" fill="#f4f7fb" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="750">Stop guessing which</text>
+  <text x="85" y="330" fill="#f4f7fb" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="750">file to download.</text>
+  <rect x="85" y="391" width="900" height="94" rx="18" fill="#151f31" stroke="#5eead4" stroke-opacity=".42"/>
+  <circle cx="139" cy="438" r="22" fill="#5eead4" fill-opacity=".12"/>
+  <path d="m139 422 13 7v17l-13 7-13-7v-17l13-7Z" fill="url(#b)"/>
+  <text x="180" y="428" fill="#9baac0" font-family="Segoe UI,Arial,sans-serif" font-size="20">Recommended for Windows · x64</text>
+  <text x="180" y="462" fill="#f4f7fb" font-family="Consolas,monospace" font-size="25" font-weight="700">app-v2.4.1-windows-amd64.exe</text>
+  <text x="85" y="560" fill="#6f819b" font-family="Segoe UI,Arial,sans-serif" font-size="20">No login · No API key · Downloads directly from GitHub</text>
+</svg>
